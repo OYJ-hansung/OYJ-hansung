@@ -24,9 +24,9 @@
 
 |제목|내용|역할|
 |---|---|---|
-|[Rabbit Notification Service](https://github.com/Send-Rabbit-Team/RNS-Spring)|기업의 성공적인 마케팅/고객관리를 위한 대량 메시지 발송 플렛폼|BE,SA|
+|[Rabbit Notification Service](https://github.com/Send-Rabbit-Team/RNS-Spring)|기업의 성공적인 마케팅/고객관리를 위한 대량 메시지 발송 플렛폼|BE,SA,DevOps|
 |[MSA Survey Platform](https://github.com/OYJ-hansung/survey_platform)|설문조사 데이터를 분석/시각화 그리고 사고팔기 위한 온라인 설문조사 허브 플렛폼|BE|
-|[Study With Me-AWS IaC](https://github.com/OYJ-hansung/Terraform-eks)|서비스를 포함한 모든 시스템 아키텍처를 IaC로 형상관리할 수 있는 커뮤니티 사이트|SA|
-|Marusys AI Helmet </br> (기업 프로젝트)|아날로그한 로봇이 ML/DL으로 주변 사람 및 물체를 즉각적으로 학습하고, 다양한 API와 로직을 이용해 사람과 대화 가능하게 하는 스마트 헬멧|AIEmbedded|
+|[Study With Me-AWS IaC](https://github.com/OYJ-hansung/Terraform-eks)|서비스를 포함한 모든 시스템 아키텍처를 IaC로 형상관리할 수 있는 커뮤니티 사이트|SA,DevOps|
+|Marusys AI Helmet </br> (기업 프로젝트)|아날로그한 로봇이 ML/DL으로 주변 사람 및 물체를 즉각적으로 학습하고, 다양한 API와 로직을 이용해 사람과 대화 가능하게 하는 스마트 헬멧|AI|
 
 
