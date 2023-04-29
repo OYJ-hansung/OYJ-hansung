@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:62a4ff,100:2fecda&fontColor=FFF&height=240&section=header&text=AI한%20BE개발자%20오영주입니다🧑🏻‍💻%20&fontSize=60&animation=fadeIn&fontAlignY=40)
 
-<h1>🔧 기술스택 </h1>
+<h1>🔧 Skills </h1>
  
 ### Back-End: ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ### Database: ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
@@ -20,7 +20,7 @@
 ### Collaboration/Document: ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![](https://img.shields.io/badge/GatherTown-375BD2?style=flat-square&logo=googlechat&logoColor=white) ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 <br>
-<h1>🔥 프로젝트 </h1>
+<h1>🔥 Projects </h1>
 
 |제목|내용|역할|
 |---|---|---|
