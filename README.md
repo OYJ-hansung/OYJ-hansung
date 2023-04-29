@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm,%20YoungJoo%20&fontSize=73)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:62a4ff,100:2fecda&fontColor=FFF&height=240&section=header&text=AI한%20BE개발자%20오영주입니다🧑🏻‍💻%20&fontSize=60&animation=fadeIn&fontAlignY=40)
