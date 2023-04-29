@@ -18,3 +18,15 @@
 ### Testing: ![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ### Collaboration/Document: ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![](https://img.shields.io/badge/GatherTown-375BD2?style=flat-square&logo=googlechat&logoColor=white) ![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+<br>
+<h1>🔥 프로젝트 </h1>
+
+|제목|내용|역할|
+|---|---|---|
+|[Rabbit Notification Service](https://github.com/Send-Rabbit-Team/RNS-Spring)|기업의 성공적인 마케팅/고객관리를 위한 대량 메시지 발송 플렛폼|BE,SA|
+|[MSA Survey Platform](https://github.com/OYJ-hansung/survey_platform)|설문조사 데이터를 분석/시각화 그리고 사고팔기 위한 온라인 설문조사 허브 플렛폼|BE|
+|[Study With Me-AWS IaC](https://github.com/OYJ-hansung/Terraform-eks)|서비스를 포함한 모든 시스템 아키텍처를 IaC로 형상관리할 수 있는 커뮤니티 사이트|SA|
+|Marusys AI Helmet </br> (기업 프로젝트)|아날로그한 로봇이 ML/DL으로 주변 사람 및 물체를 즉각적으로 학습하고, 다양한 API와 로직을 이용해 사람과 대화 가능하게 하는 스마트 헬멧|AIEmbedded|
+
+
